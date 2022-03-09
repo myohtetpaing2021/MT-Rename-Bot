@@ -16,6 +16,8 @@
 ##### Deploy
 You can deploy this bot anywhere.
 
+https://heroku.com/deploy?template=https://github.com/myohtetpaing2021/MT-Rename-Bot
+
 <details><summary>Deploy To Heruko</summary>
 <p>
 <pre>
